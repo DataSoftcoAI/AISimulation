@@ -21,6 +21,20 @@ To install the necessary dependencies, run the following command:
 
 ```bash
 pip install -r requirements.txt
+# or .venv:
+python3 -m venv .venv
+source .venv/bin/activate
+
+python -m pip show tensorflow tensorflow-hub
+# tensorflow 2.18.0
+pip install tensorflow
+# tensorflow-hub 0.16.1
+pip install tensorflow-hub
+
+# on macOS: conda or miniconad
+brew install miniforge
+conda create -n tf_env tensorflow
+conda activate tf_env
 ```
 
 ## Usage
@@ -63,6 +77,21 @@ This project is licensed under the MIT License.
 
 ```bash
 pip install -r requirements.txt
+
+#or .venv:
+python3 -m venv .venv
+source .venv/bin/activate
+
+python -m pip show tensorflow tensorflow-hub
+# tensorflow 2.18.0
+pip install tensorflow
+# tensorflow-hub 0.16.1
+pip install tensorflow-hub
+
+# on macOS: conda or miniconad
+brew install miniforge
+conda create -n tf_env tensorflow
+conda activate tf_env
 ```
 
 ## الاستخدام
