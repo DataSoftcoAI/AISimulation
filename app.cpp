@@ -20,6 +20,7 @@ MachineLearnin ml;
   }
   
   ml.predict('Q');
+  ml.test();
   ml.save();
   
   app.RunAPP(ml);
