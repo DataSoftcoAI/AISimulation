@@ -1,9 +1,34 @@
 #include <iostream>
-#include <AI/ai> // install AI framework 
+#include <vector>
+#include <algorithm>
 
-class AI{};
-class MachineLearning:AI{};
-class DeepLearning:AI{};
+#include "AI.hpp" // AI framework 
+
+//class AI{};
+class MachineLearning:public AI{
+  std::vector<int> data;
+  public:
+  void load(std::string fileName){};
+  void learn(){};
+  void predict(std::string Q){};
+  void test(){};
+  void save(){};
+  bool hasNext (){
+    if (!data.empty()) {
+        return true;
+      }
+    return false;
+    };
+
+  std::vector<int> next(){
+       std::vector<int> data;
+       // fetch data
+       return data;
+     };
+
+
+};
+class DeepLearning:public AI{};
 class IO{};
 
 
@@ -11,7 +36,7 @@ int main()
 {
 AI app;
 // Run AI Simualtion Application:
-MachineLearnin ml;
+MachineLearning ml;
   ml.load("Model-007");
   ml.learn();
   if (ml.hasNext())
@@ -19,11 +44,11 @@ MachineLearnin ml;
     ml.next();
   }
   
-  ml.predict('Q');
+  ml.predict("Q");
   ml.test();
   ml.save();
   
-  app.RunAPP(ml);
+  app.runApp(&ml);
 
 return 0;
 }
