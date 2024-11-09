@@ -4,6 +4,8 @@
 class AI{};
 class MachineLearnin:AI{};
 class DeepLearning:AI{};
+class IO{};
+
 
 int main()
 {
