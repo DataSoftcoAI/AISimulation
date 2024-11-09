@@ -1,8 +1,8 @@
 #include <iostream>
-#include <AI/ai>
+#include <AI/ai> // install AI framework 
 
 class AI{};
-class MachineLearnin:AI{};
+class MachineLearning:AI{};
 class DeepLearning:AI{};
 class IO{};
 
@@ -14,9 +14,9 @@ AI app;
 MachineLearnin ml;
   ml.load("Model-007");
   ml.learn();
-  if ml.hasNext() 
+  if (ml.hasNext())
   {
-    ml.next;
+    ml.next();
   }
   
   ml.predict('Q');
