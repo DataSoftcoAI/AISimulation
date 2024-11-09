@@ -7,9 +7,20 @@ class DeepLearning:AI{};
 
 int main()
 {
-AI ai;
+AI app;
 // Run AI Simualtion Application:
-ai.RunAPP();
+MachineLearnin ml;
+  ml.load("Model-007");
+  ml.learn();
+  if ml.hasNext() 
+  {
+    ml.next;
+  }
+  
+  ml.predict('Q');
+  ml.save();
+  
+  app.RunAPP(ml);
 
 return 0;
 }
