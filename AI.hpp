@@ -1,11 +1,21 @@
-class AI{};
+#include <iostream>
+#include <string>
+#include <vector>
+#include <map>
 
-class HumanBehaviorSimulator {
+class AI{
+    public:
+    int runApp(AI* app){
+        return 0;
+    };
+};
+
+class HumanBehaviorSimulatorAI {
 public:
     virtual void learn() = 0;           // التعلم من التجارب
     virtual void makeDecision() = 0;     // اتخاذ القرارات بناءً على المعلومات
     virtual void interact() = 0;         // التفاعل مع البيئة أو الكائنات الأخرى
-    virtual ~HumanBehaviorSimulator() {}  // الدالة الافتراضية للمُدمر
+    virtual ~HumanBehaviorSimulatorAI() {}  // الدالة الافتراضية للمُدمر
 };
 class EcosystemSimulator {
 public:
