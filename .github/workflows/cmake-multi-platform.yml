@@ -1,2 +1,0 @@
-- name: Build
-run: clang++ app.cpp -o app
