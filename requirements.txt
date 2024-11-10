@@ -1,0 +1,66 @@
+absl-py @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_86ebbts42m/croot/absl-py_1714140474451/work
+aiohappyeyeballs @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_15gsua8xj2/croot/aiohappyeyeballs_1725434021301/work
+aiohttp @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_09lqy3yoen/croot/aiohttp_1725527765804/work
+aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
+astunparse==1.6.3
+attrs @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_70ri_4okcz/croot/attrs_1729089428961/work
+blinker @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_006wdibaig/croot/blinker_1696539075381/work
+Brotli @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_67j4p18ie3/croot/brotli-split_1714483158198/work
+cachetools @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_dd5gv9zyno/croot/cachetools_1713977103134/work
+certifi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_c7dh9wvd8f/croot/certifi_1725551679893/work/certifi
+cffi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_a1n4t3qsjy/croot/cffi_1726856449083/work
+charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
+click @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_f27dk3zwrb/croot/click_1698129816363/work
+cryptography @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_19sc_35nzq/croot/cryptography_1694211574676/work
+flatbuffers @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_30zqjurcuu/croot/python-flatbuffers_1722369106203/work
+frozenlist @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_11anscvt0v/croot/frozenlist_1730902824748/work
+gast @ file:///Users/ktietz/demo/mc3/conda-bld/gast_1628588903283/work
+google-auth @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_c2g0gdra10/croot/google-auth_1715111157483/work
+google-auth-oauthlib @ file:///Users/ec2-user/ci_py311_2/google-auth-oauthlib_1679339469252/work
+google-pasta @ file:///Users/ktietz/demo/mc3/conda-bld/google-pasta_1630577991354/work
+grpcio @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_89crzmas0c/croot/grpc-suite_1681912595800/work
+h5py @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_5a6as569j2/croot/h5py_1730215944086/work
+idna @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_2b_jn555_n/croot/idna_1714398852258/work
+keras==3.6.0
+Keras-Preprocessing @ file:///tmp/build/80754af9/keras-preprocessing_1612283640596/work
+libclang==18.1.1
+Markdown @ file:///Users/ec2-user/ci_py311/markdown_1678377870854/work
+markdown-it-py==3.0.0
+MarkupSafe @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_3a_cffw83x/croot/markupsafe_1704205995714/work
+mdurl==0.1.2
+ml-dtypes==0.3.2
+multidict @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_3ecxr7g6ut/croot/multidict_1730905500260/work
+namex==0.0.8
+numpy @ file:///Users/ec2-user/ci_py311/numpy_and_numpy_base_1678321341477/work
+oauthlib @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_0fpzkx7s0h/croot/oauthlib_1679489634313/work
+opt-einsum @ file:///tmp/build/80754af9/opt_einsum_1621500238896/work
+optree==0.13.0
+packaging @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_af6w2d9k11/croot/packaging_1720101860461/work
+protobuf==3.20.3
+pyasn1 @ file:///Users/ktietz/demo/mc3/conda-bld/pyasn1_1629708007385/work
+pyasn1-modules==0.2.8
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+Pygments==2.18.0
+PyJWT @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_08gkhme8it/croot/pyjwt_1730786798279/work
+pyOpenSSL @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_7fwdg30481/croot/pyopenssl_1690223429070/work
+PySocks @ file:///Users/ec2-user/ci_py311/pysocks_1678315868424/work
+requests @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_2eh84h3yiv/croot/requests_1730999127987/work
+requests-oauthlib @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_f5v0w5n9ep/croot/requests-oauthlib_1720615031810/work
+rich==13.9.4
+rsa @ file:///tmp/build/80754af9/rsa_1614366226499/work
+scipy @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_15kdberrhr/croot/scipy_1717597139640/work/dist/scipy-1.13.1-cp311-cp311-macosx_10_15_x86_64.whl#sha256=2dffe286a8b1478d13118a812497b6b1db2b72a370e2ea070f6c078ac3d0984a
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+tensorboard==2.16.2
+tensorboard-plugin-wit==1.6.0
+tensorboard_data_server @ file:///var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_82k8451hkp/croot/tensorboard-data-server_1724172561292/work/tensorboard_data_server-0.7.0-py3-none-macosx_10_9_x86_64.whl#sha256=2dc23a16a1c8f07809071c271a615de306e45f751736cd5b4e7126f73f44e5a1
+tensorflow==2.16.2
+tensorflow-estimator @ file:///usr/local/conda/envs/311b/conda-bld/tensorflow-estimator_1683571540547/work/tensorflow_estimator-2.12.0-py2.py3-none-any.whl
+tensorflow-hub==0.16.1
+tensorflow-io-gcs-filesystem==0.37.1
+termcolor @ file:///Users/ec2-user/ci_py311/termcolor_1678423689953/work
+tf_keras==2.16.0
+typing_extensions @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_0b3pj9yhn2/croot/typing_extensions_1715268854415/work
+urllib3 @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_7dvsr0a5y0/croot/urllib3_1727769823716/work
+Werkzeug @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_34hd27z78h/croot/werkzeug_1731005772104/work
+wrapt @ file:///Users/ec2-user/ci_py311/wrapt_1678323111850/work
+yarl @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_e1e9t55odx/croot/yarl_1725976505882/work
